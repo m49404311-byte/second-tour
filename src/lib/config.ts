@@ -11,7 +11,7 @@ export const SITE = {
     "Second Tour relance tes habitués au bon moment, avec une offre de retour à usage unique. Tu vois combien sont revenus.",
   description:
     "Le rappel automatique qui fait revenir les clients de ton salon ou de ta barbe. 3 questions, c'est gratuit.",
-  contactEmail: "[EMAIL DE CONTACT À REMPLIR]",
+  contactEmail: "[M49404311@GMAIL.COM]",
   deliveryDays: 7, // l'accès ouvre sous 7 jours après paiement (pré-vente)
   guaranteeDays: 30, // satisfait ou remboursé
   refundDelay: "5 jours ouvrés",
@@ -19,11 +19,11 @@ export const SITE = {
 };
 
 export const LEGAL = {
-  owner: "[PRÉNOM NOM]",
+  owner: "[MAYA KOUKOUI]",
   status: "micro-entrepreneur (entrepreneur individuel)",
   siret: "[SIRET À REMPLIR]",
-  address: "[ADRESSE À REMPLIR]",
-  publisher: "[PRÉNOM NOM]",
+  address: "[RUE DE CUQUES, AIX EN PROVENCE]",
+  publisher: "[MAYA KOUKOUI]",
   // Franchise en base de TVA : à confirmer avec ton dossier de création.
   vatNote: "TVA non applicable, article 293 B du CGI",
 };
